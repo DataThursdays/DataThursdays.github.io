@@ -10,19 +10,14 @@ Por ello queremos invitarlos a hacer parte de un espacio de crecimiento y capaci
 
 La metodología será proponer unos temas puntuales de interés común, analizar los materiales que tenemos disponibles, una corta exposición magistral por parte de alguno de los miembros del grupo de trabajo y una serie de ejemplos y ejercicios prácticos que haremos según el área e interés de cada usuario.
 
-
-Tal espacio será todos los jueves en las tardes, Saludos y Esperamos que nos puedas acompañar.
+*_ Tal espacio será todos los jueves en las tardes, Saludos y Esperamos que nos puedas acompañar. _*
 
 ![Nosotros](/aux/5.jpeg)
 
 # Sesiones
 
-[Sesion 1 ](/sesiones/3.md) : Abril 5
-
-[Sesion 2 ](/sesiones/3.md) : Abril 12
-
-[Sesion 3 ](/sesiones/3.md) : Abril 19
-
-[Sesion 4 ](/sesiones/3.md) : Abril 26
-
-[Sesion 5 ](/sesiones/3.md) : Mayo 3
+* [Sesion 1 ](/sesiones/3.md) : Abril 5
+* [Sesion 2 ](/sesiones/3.md) : Abril 12
+* [Sesion 3 ](/sesiones/3.md) : Abril 19
+* [Sesion 4 ](/sesiones/3.md) : Abril 26
+* [Sesion 5 ](/sesiones/3.md) : Mayo 3
