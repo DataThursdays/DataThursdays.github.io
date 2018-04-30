@@ -6,8 +6,12 @@ Este es un sitio en construcción cuyo objetivo es facilitar el proceso de apren
 
 # Sesiones
 
-[Sesion 1: Abril 5 ](/sesiones/3.md)
-[Sesion 2: Abril 12 ](/sesiones/3.md)
-[Sesion 3: Abril 19 ](/sesiones/3.md)
-[Sesion 4: Abril 26 ](/sesiones/3.md)
-[Sesion 5: Mayo 3 ](/sesiones/3.md)
+[Sesion 1 ](/sesiones/3.md) : Abril 5
+
+[Sesion 2 ](/sesiones/3.md) : Abril 12
+
+[Sesion 3 ](/sesiones/3.md) : Abril 19
+
+[Sesion 4 ](/sesiones/3.md) : Abril 26
+
+[Sesion 5 ](/sesiones/3.md) : Mayo 3
