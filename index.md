@@ -18,8 +18,9 @@ La metodología será proponer unos temas puntuales de interés común, analizar
 
 # Sesiones
 
-* [Sesion 1 ](/sesiones/1.md) : Abril 5
-* [Sesion 2 ](/sesiones/2.md) : Abril 12
-* [Sesion 3 ](/sesiones/3.md) : Abril 19
-* [Sesion 4 ](/sesiones/4.md) : Abril 26
-* [Sesion 5 ](/sesiones/5.md) : Mayo 3
+- [x] [Sesion 1 ](/sesiones/1.md) : Abril 5
+- [x] [Sesion 2 ](/sesiones/2.md) : Abril 12
+- [x] [Sesion 3 ](/sesiones/3.md) : Abril 19
+- [x] [Sesion 4 ](/sesiones/4.md) : Abril 26
+- [ ] [Sesion 5 ](/sesiones/5.md) : Mayo 3
+ 
