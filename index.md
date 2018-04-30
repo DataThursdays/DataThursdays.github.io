@@ -12,7 +12,8 @@ La metodología será proponer unos temas puntuales de interés común, analizar
 
 *Tal espacio será todos los jueves en las tardes Esperamos que nos puedas acompañar.*
 
-**UPDATE:** _Debido a la alta acogida que ha tenido nuestro grupo y los cupos limitados que tenemos, si deseas asistir envianos un correo con tu necesidad para nosotros priorizar los cupos_
+**UPDATE:**
+_Debido a la alta acogida que ha tenido nuestro grupo y los cupos limitados que tenemos, si deseas asistir envianos un correo con tu necesidad para nosotros priorizar los cupos_
 
 ![Nosotros](/aux/5.jpeg)
 
@@ -23,4 +24,3 @@ La metodología será proponer unos temas puntuales de interés común, analizar
 - [x] [Sesion 3 ](/sesiones/3.md) : Abril 19
 - [x] [Sesion 4 ](/sesiones/4.md) : Abril 26
 - [ ] [Sesion 5 ](/sesiones/5.md) : Mayo 3
- 
