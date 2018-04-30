@@ -10,7 +10,9 @@ Por ello queremos invitarlos a hacer parte de un espacio de crecimiento y capaci
 
 La metodología será proponer unos temas puntuales de interés común, analizar los materiales que tenemos disponibles, una corta exposición magistral por parte de alguno de los miembros del grupo de trabajo y una serie de ejemplos y ejercicios prácticos que haremos según el área e interés de cada usuario.
 
-*_ Tal espacio será todos los jueves en las tardes, Saludos y Esperamos que nos puedas acompañar. _*
+*Tal espacio será todos los jueves en las tardes Esperamos que nos puedas acompañar.*
+
+**UPDATE:** _Debido a la alta acogida que ha tenido nuestro grupo y los cupos limitados que tenemos, si deseas asistir envianos un correo con tu necesidad para nosotros priorizar los cupos_
 
 ![Nosotros](/aux/5.jpeg)
 
