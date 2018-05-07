@@ -6,7 +6,7 @@ Este es un sitio en construcción cuyo objetivo es facilitar el proceso de apren
 
 # Sesiones
 
-- [ ] [Sesión 6 ](/sesiones/5.md) : Mayo 10
+- [ ] [Sesión 6 ](/sesiones/6.md) : Mayo 10
 - [x] [Sesión 5 ](/sesiones/5.md) : Mayo 3
 - [x] [Sesión 4 ](/sesiones/4.md) : Abril 26
 - [x] [Sesión 3 ](/sesiones/3.md) : Abril 19
