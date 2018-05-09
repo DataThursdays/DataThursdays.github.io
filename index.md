@@ -27,4 +27,8 @@ La metodología será proponer unos temas puntuales de interés común, analizar
 *Tal espacio será todos los jueves en las tardes Esperamos que nos puedas acompañar.*
 
 **UPDATE:**
-_Debido a la alta acogida que ha tenido nuestro grupo y los cupos limitados que tenemos, si deseas asistir envianos un correo a smonsalve@leonisa.com con tu necesidad para nosotros priorizar los cupos _
+_Debido a la alta acogida que ha tenido nuestro grupo y los cupos limitados que tenemos, si deseas asistir envianos un correo a smonsalve@leonisa.com con tu necesidad para nosotros priorizar los cupos_
+
+# Ejercicios Adicionales
+
+* [Ejercicio 1](Ejercicios/E1.md)
