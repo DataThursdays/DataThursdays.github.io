@@ -6,7 +6,7 @@ Este es un sitio en construcción cuyo objetivo es facilitar el proceso de apren
 
 # Sesiones
 
-- [] [Sesión 11 ](/sesiones/20180621.md) : Junio 21
+- [ ] [Sesión 11 ](/sesiones/20180621.md) : Junio 21
 - [x] [Sesión 11](/sesiones/11.md) : Junio 14 (Cancelado)
 - [x] [Sesión 10 ](/sesiones/10.md) : Junio 7
 - [x] [Sesión 9 ](/sesiones/9.md) : Mayo 31
