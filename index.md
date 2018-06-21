@@ -6,7 +6,13 @@ Este es un sitio en construcción cuyo objetivo es facilitar el proceso de apren
 
 # Sesiones
 
-- [ ] [Sesión 6 ](/sesiones/6.md) : Mayo 10
+- [] [Sesión 11 ](/sesiones/20180621.md) : Junio 21
+- [x] [Sesión 11](/sesiones/11.md) : Junio 14 (Cancelado)
+- [x] [Sesión 10 ](/sesiones/10.md) : Junio 7
+- [x] [Sesión 9 ](/sesiones/9.md) : Mayo 31
+- [x] [Sesión 8 ](/sesiones/8.md) : Mayo 24
+- [x] [Sesión 7 ](/sesiones/7.md) : Mayo 17
+- [x] [Sesión 6 ](/sesiones/6.md) : Mayo 10
 - [x] [Sesión 5 ](/sesiones/5.md) : Mayo 3
 - [x] [Sesión 4 ](/sesiones/4.md) : Abril 26
 - [x] [Sesión 3 ](/sesiones/3.md) : Abril 19
