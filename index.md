@@ -22,7 +22,7 @@ Este es un sitio en construcción cuyo objetivo es facilitar el proceso de apren
 - [x] [Abril 12 ](/sesiones/2.md) :
 - [x] [Abril 5 ](/sesiones/1.md) :
 
-[Guia Cero](CapacitacionLeonisaGuiaCero.md)
+[Guia Cero](sesiones/CapacitacionLeonisaGuiaCero.md)
 
 ## ¿Qué son los Jueves de Datos?
 
